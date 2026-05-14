@@ -1,1 +1,3 @@
 This is first file of today prectic git
+This 2nd line after git push and now i want to changes in file and again push to git this makes me perfact day by day in git 
+
